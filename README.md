@@ -31,7 +31,7 @@ PlayverseAILabs is driven by a commitment to technical excellence and innovative
 
 
 
-> *Note: Replace the bracketed text above with the actual names of your co-founders.*
+> 
 
 ---
 <!--
