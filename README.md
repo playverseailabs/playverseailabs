@@ -22,8 +22,8 @@ PlayverseAILabs is driven by a commitment to technical excellence and innovative
 
 | Executive | Role | Focus |
 | :--- | :--- | :--- |
-| **Aranya Ray** | **CEO & Founder** | Business Strategy, Visionary Leadership & AI Ethics |
-| **Raktim Ghosh** | **CTO & Co-Founder** | Technical Architecture, VR Optimization & AI Research |
+| **Aranya Ray** | **CEO** | Business Strategy, Visionary Leadership & AI Ethics |
+| **Raktim Ghosh** | **CTO** | Technical Architecture, VR Optimization & AI Research |
 | **Shouvik Kundu** | **CISO** | Infrastructure Security, End product Maintenance |
 | **Diyali Biswas** | **CMO** | Marketing Analysis , Sales  |
 | **Gourab Baidya** | **CVRO** | Virtual Reality Optimization. |
