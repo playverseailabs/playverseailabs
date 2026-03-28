@@ -54,8 +54,7 @@ Our lab leverages a powerful suite of tools to bridge the gap between code and r
 
 * **Languages:** Python, C++, C#, Rust
 * **AI Frameworks:** PyTorch, TensorFlow, HuggingFace
-* **VR Tools:** OpenXR, Meta Quest SDK, SteamVR
-
+* **VR Tools:** Unreal Engine, Unity
 ---
 
 ## 🌐 Connect With Us
