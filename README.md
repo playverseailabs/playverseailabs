@@ -53,7 +53,7 @@ Our lab leverages a powerful suite of tools to bridge the gap between code and r
 ![Engine](https://img.shields.io/badge/Engine-Unity%2FUnreal-orange?style=flat-square)
 
 * **Languages:** Python, C++, C#, Rust
-* **AI Frameworks:** PyTorch, TensorFlow, HuggingFace
+* **AI Frameworks:** PyTorch, TensorFlow,
 * **VR Tools:** Unreal Engine, Unity
 ---
 
