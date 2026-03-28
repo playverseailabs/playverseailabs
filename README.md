@@ -27,7 +27,7 @@ PlayverseAILabs is driven by a commitment to technical excellence and innovative
 | **Shouvik Kundu** | **CISO** | Infrastructure Security, End product Maintenance |
 | **Diyali Biswas** | **CMO** | Marketing Analysis , Sales  |
 | **Gourab Baidya** | **CVRO** | Virtual Reality Optimization. |
-| **Shivam Volviocar** | **CQO** | Product Quality assurance, End product Maintenance |
+| **Shivam Volvoicar** | **CQO** | Product Quality assurance, End product Maintenance |
 
 
 
